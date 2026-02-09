@@ -70,25 +70,7 @@ Structure prediction was performed using ColabFold (AlphaFold2 implementation on
 
 
 
-AlphaFold2 predicted a compact α-helical scaffold with high overall confidence (mean pLDDT ≈ 94). The engineered residues (S35–H48–D55) form a spatially clustered, solvent-accessible groove consistent with a plausible binding pocket. Structural alignment between sequence variants shows preservation of the overall fold, suggesting stability of the designed scaffold.
-
-
-
-!\[Predicted structure](analysis/figures/structure.png)
-
-
-
-\## ***Repository structure***
-
-
-
-```
-
-sequences/   FASTA files of designed sequences
-
-models/      ColabFold predicted structural models 
-
-```
+AlphaFold2 predicted a compact α-helical scaffold with high overall confidence (mean pLDDT ≈ 94). The engineered residues (S35–H48–D55) form a spatially clustered, solvent-accessible groove consistent with a plausible binding pocket. Structural alignment between sequence variants shows preservation of the overall fold, suggesting stability of the designed scaffold
 
 
 
@@ -105,6 +87,7 @@ The results indicate that a de novo sequence can be rationally engineered into a
 
 
 Planned extensions include systematic sequence variant generation, docking against model ligands, and short molecular dynamics simulations to assess pocket stability.
+
 
 
 
