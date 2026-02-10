@@ -41,7 +41,8 @@ We examined two closely related sequences for this project.
 ```
 
 
-You can find the FASTA files of these sequences in the `sequences/` directory.
+You can find the FASTA files of these sequences in the link below. <br><br>
+[FASTA](https://github.com/bushra-rahman588/alphafold2-de-novo-protein-design/blob/main/mutated_66aa.fasta)
 
 
 
@@ -90,6 +91,7 @@ The results indicate that a de novo sequence can be rationally engineered into a
 
 
 Planned extensions include systematic sequence variant generation, docking against model ligands, and short molecular dynamics simulations to assess pocket stability.
+
 
 
 
